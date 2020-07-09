@@ -1,0 +1,20 @@
+body{
+    background:url(../images/round-gold-colored-fossil-analog-watch-3419331.jpg) 
+    no-repeat center center fixed ;
+    background-size: cover;
+    /* opacity: 0.4; */
+}
+.herotext{
+    color:rgb(201, 31, 31);
+    margin-top: 20%;
+    text-align: center;
+    font-size: 75px;
+    letter-spacing: -0.05rem;
+    font-family: 'Montserrat', sans-serif;
+     /* background-color: aqua ; */
+     opacity: 0.8;
+}
+.ima{
+    width: 200px;
+    height: 100px;
+}
